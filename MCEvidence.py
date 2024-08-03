@@ -69,7 +69,7 @@ __author__ = "Yabebal Fantaye"
 __email__ = "yabi@aims.ac.za"
 __license__ = "MIT"
 __version_info__ = ('17','04','2018')
-__version__ = '-'.join(__version_info__)
+__version__ = ''.join(__version_info__)
 __status__ = "Development"
 
 desc='Planck Chains MCEvidence. Returns the log Bayesian Evidence computed using the kth NN'
