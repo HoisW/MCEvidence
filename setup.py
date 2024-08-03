@@ -31,7 +31,7 @@ setup(name='MCEvidence',
       install_requires=[
           'numpy',
           'statistics',
-          'sklearn',
+          'scikit-learn',
           "scipy (>=0.11.0)",
           'pandas (>=0.14.0)',
           ],
